@@ -1,0 +1,8 @@
+c:\users\s0163750\documents\visual studio 2012\Projects\piccip1\piccip1\obj\Debug\PictureCoding.Form1.resources
+c:\users\s0163750\documents\visual studio 2012\Projects\piccip1\piccip1\obj\Debug\piccip1.Properties.Resources.resources
+c:\users\s0163750\documents\visual studio 2012\Projects\piccip1\piccip1\obj\Debug\piccip1.csproj.GenerateResource.Cache
+c:\users\s0163750\documents\visual studio 2012\Projects\piccip1\piccip1\bin\Debug\piccip1.exe.config
+c:\users\s0163750\documents\visual studio 2012\Projects\piccip1\piccip1\bin\Debug\piccip1.exe
+c:\users\s0163750\documents\visual studio 2012\Projects\piccip1\piccip1\bin\Debug\piccip1.pdb
+c:\users\s0163750\documents\visual studio 2012\Projects\piccip1\piccip1\obj\Debug\piccip1.exe
+c:\users\s0163750\documents\visual studio 2012\Projects\piccip1\piccip1\obj\Debug\piccip1.pdb
